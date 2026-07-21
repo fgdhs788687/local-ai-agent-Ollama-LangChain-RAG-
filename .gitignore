@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local vector database storage (generated when running vector.py)
+chroma_langchain_db/
+
+# Optional: Scratch/test files
+test_file.py
+
+# OS / Environment files
+.DS_Store
+.env
